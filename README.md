@@ -1,7 +1,7 @@
 # INOTEBOOK APPLICATION
 ### Why and What problem does the project solve ?
 iNotebook is a digital notebook application that allows users to take notes, organize information, and collaborate with others.
-There are several reasons why choose iNotebook, including:
+There are several reasons why we chose iNotebook includes:
 Convenience, Customization, Collaboration, etc but our main reason was
 
 Security: As iNotebook offers password protection and encryption to keep our notes secure. This is important if we're dealing with sensitive information or if we simply want to keep your notes private.
@@ -87,3 +87,4 @@ npm run both
 ![image](https://user-images.githubusercontent.com/75381077/225828350-582eae59-7d69-4b34-b628-86ff01cfc060.png)
 
 ![image](https://user-images.githubusercontent.com/75381077/225828704-7e1ce84a-bb96-4dc2-9ec7-427f3bb0b354.png)
+## Here is the demo Video [Link](https://drive.google.com/drive/folders/1rf_7wmlLu7CEangQVSN1GJVNqA7kt4t2?usp=share_link) of our project
