@@ -1,7 +1,20 @@
-# INOTEBOOK APPLICATION
-### This is the full-feldge application made using the mern Stack which I have made during the course journey of the react js.
+# INOTEBOOK APPLICATION 
+### Why and What problem does the project solve ?
+iNotebook is a digital notebook application that allows users to take notes, organize information, and collaborate with others. 
+There are several reasons why choose iNotebook, including:
+Convenience, Customization, Collaboration, etc but our main reason was 
 
-## Dependencies Used
+Security: As iNotebook offers password protection and encryption to keep our notes secure. This is important if we're dealing with sensitive information or if we simply want to keep your notes private.
+
+Overall, iNotebook is a versatile and useful tool for anyone who wants to stay organized, productive, and connected with others.
+
+
+### Brief Description of the project is as follows:
+
+
+
+
+### Major Tech stacks used
 ### For FrontEnd
 ```dotnetcli
     concurrently: ^7.6.0
@@ -22,7 +35,11 @@
     mongoose: ^6.9.2
 ```
 
-## How to use this Application
+
+
+
+
+## How to run the application on the local machine 
 
 1. Clone this Application
 
@@ -57,17 +74,3 @@ Then run the command `npm install` for installing the Dependencies in the backen
 npm run both
 ```
 ## Glimpses of the Given Application
-**1. Login Functionality**
-
-![image](https://user-images.githubusercontent.com/75381077/221779879-50b389ba-5668-471c-a3b8-208a4fe74799.png)
-
-**2. SignUp Functionality**
-
-![image](https://user-images.githubusercontent.com/75381077/221780091-d2ad8f9f-e2e9-4dbb-a4a9-2b89dd3a806b.png)
-**3. Add Note Page in the Given Note**
-
-![image](https://user-images.githubusercontent.com/75381077/221780547-65d699f2-a775-40e0-8004-f8b07576e6cc.png)
-
-**4. About Section of the Given Page**
-
-![image](https://user-images.githubusercontent.com/75381077/221780775-a520a69f-8c40-49d0-bc81-34084c917cf9.png)
