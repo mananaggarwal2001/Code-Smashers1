@@ -1,8 +1,8 @@
-# INOTEBOOK APPLICATION 
+# INOTEBOOK APPLICATION
 ### Why and What problem does the project solve ?
-iNotebook is a digital notebook application that allows users to take notes, organize information, and collaborate with others. 
+iNotebook is a digital notebook application that allows users to take notes, organize information, and collaborate with others.
 There are several reasons why choose iNotebook, including:
-Convenience, Customization, Collaboration, etc but our main reason was 
+Convenience, Customization, Collaboration, etc but our main reason was
 
 Security: As iNotebook offers password protection and encryption to keep our notes secure. This is important if we're dealing with sensitive information or if we simply want to keep your notes private.
 
@@ -39,7 +39,7 @@ Overall, iNotebook is a versatile and useful tool for anyone who wants to stay o
 
 
 
-## How to run the application on the local machine 
+## How to run the application on the local machine
 
 1. Clone this Application
 
@@ -74,3 +74,16 @@ Then run the command `npm install` for installing the Dependencies in the backen
 npm run both
 ```
 ## Glimpses of the Given Application
+### Login Form
+
+![image](https://user-images.githubusercontent.com/75381077/225827555-675ff7c7-0277-4949-a623-f5b5cdc46920.png)
+
+### SignUp Form
+
+![image](https://user-images.githubusercontent.com/75381077/225827886-ce1a9c4c-544a-4d28-ab27-6149e0ad8e6b.png)
+
+### InoteBook Adding Note Section
+
+![image](https://user-images.githubusercontent.com/75381077/225828350-582eae59-7d69-4b34-b628-86ff01cfc060.png)
+
+![image](https://user-images.githubusercontent.com/75381077/225828704-7e1ce84a-bb96-4dc2-9ec7-427f3bb0b354.png)
